@@ -1,0 +1,216 @@
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\selenium-manager\linux\selenium-manager
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\selenium-manager\macos\selenium-manager
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Ezanı Muhammediye Saygı.exe.config
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Ezanı Muhammediye Saygı.exe
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Ezanı Muhammediye Saygı.pdb
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\AudioSwitcher.AudioApi.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\CoreApi.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\HtmlAgilityPack.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Microsoft.Win32.Registry.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Asio.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Core.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Midi.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Wasapi.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.WinForms.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.WinMM.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Newtonsoft.Json.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Buffers.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Memory.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Net.Http.Formatting.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Numerics.Vectors.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Security.AccessControl.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Security.Principal.Windows.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Text.Encodings.Web.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Text.Json.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.ValueTuple.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Web.Http.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\WebDriver.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\WebDriver.Support.dll
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\CoreApi.dll.config
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\HtmlAgilityPack.pdb
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\HtmlAgilityPack.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Microsoft.Win32.Registry.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Asio.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Core.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Midi.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Wasapi.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.WinForms.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\NAudio.WinMM.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Newtonsoft.Json.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Buffers.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Memory.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Net.Http.Formatting.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Numerics.Vectors.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Security.AccessControl.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Security.Principal.Windows.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Text.Encodings.Web.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Text.Json.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.ValueTuple.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\System.Web.Http.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\WebDriver.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\bin\Debug\WebDriver.Support.xml
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Muhammediye Saygı.csproj.AssemblyReference.cache
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\obj\Debug\NamazVaktiApp.MainForm.resources
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\obj\Debug\Ezanı_Muhammediye_Saygı.Properties.Resources.resources
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Muhammediye Saygı.csproj.GenerateResource.cache
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Muhammediye Saygı.csproj.CoreCompileInputs.cache
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Mu.54177A13.Up2Date
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Muhammediye Saygı.exe
+D:\projelerim\Yeni klasör\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Muhammediye Saygı.pdb
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\selenium-manager\linux\selenium-manager
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\selenium-manager\macos\selenium-manager
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Ezanı Muhammediye Saygı.exe.config
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Ezanı Muhammediye Saygı.exe
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Ezanı Muhammediye Saygı.pdb
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\AudioSwitcher.AudioApi.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\CoreApi.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\HtmlAgilityPack.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Microsoft.Win32.Registry.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Asio.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Core.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Midi.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Wasapi.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.WinForms.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.WinMM.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Newtonsoft.Json.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Buffers.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Memory.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Net.Http.Formatting.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Numerics.Vectors.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Security.AccessControl.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Security.Principal.Windows.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Text.Encodings.Web.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Text.Json.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.ValueTuple.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Web.Http.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\WebDriver.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\WebDriver.Support.dll
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\CoreApi.dll.config
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\HtmlAgilityPack.pdb
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\HtmlAgilityPack.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Microsoft.Win32.Registry.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Asio.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Core.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Midi.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.Wasapi.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.WinForms.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\NAudio.WinMM.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Newtonsoft.Json.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Buffers.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Memory.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Net.Http.Formatting.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Numerics.Vectors.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Security.AccessControl.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Security.Principal.Windows.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Text.Encodings.Web.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Text.Json.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.ValueTuple.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\System.Web.Http.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\WebDriver.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\bin\Debug\WebDriver.Support.xml
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Muhammediye Saygı.csproj.AssemblyReference.cache
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\obj\Debug\NamazVaktiApp.MainForm.resources
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\obj\Debug\Ezanı_Muhammediye_Saygı.Properties.Resources.resources
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Muhammediye Saygı.csproj.GenerateResource.cache
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Muhammediye Saygı.csproj.CoreCompileInputs.cache
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Mu.54177A13.Up2Date
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Muhammediye Saygı.exe
+D:\projelerim\ApiDeneme1\Ezanı Muhammediye Saygı\obj\Debug\Ezanı Muhammediye Saygı.pdb
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\selenium-manager\linux\selenium-manager
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\selenium-manager\macos\selenium-manager
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Ezanı Muhammediye Saygı.exe.config
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Ezanı Muhammediye Saygı.exe
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Ezanı Muhammediye Saygı.pdb
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\AudioSwitcher.AudioApi.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\CoreApi.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\HtmlAgilityPack.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Microsoft.Win32.Registry.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.Asio.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.Core.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.Midi.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.Wasapi.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.WinForms.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.WinMM.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Newtonsoft.Json.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Buffers.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Memory.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Net.Http.Formatting.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Numerics.Vectors.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Security.AccessControl.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Security.Principal.Windows.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Text.Encodings.Web.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Text.Json.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.ValueTuple.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Web.Http.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\WebDriver.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\WebDriver.Support.dll
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\CoreApi.dll.config
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\HtmlAgilityPack.pdb
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\HtmlAgilityPack.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Microsoft.Win32.Registry.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.Asio.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.Core.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.Midi.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.Wasapi.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.WinForms.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\NAudio.WinMM.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Newtonsoft.Json.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Buffers.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Memory.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Net.Http.Formatting.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Numerics.Vectors.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Security.AccessControl.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Security.Principal.Windows.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Text.Encodings.Web.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Text.Json.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.ValueTuple.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\System.Web.Http.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\WebDriver.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\bin\Debug\WebDriver.Support.xml
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\obj\Debug\Ezanı Muhammediye Saygı.csproj.AssemblyReference.cache
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\obj\Debug\NamazVaktiApp.MainForm.resources
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\obj\Debug\Ezanı_Muhammediye_Saygı.Properties.Resources.resources
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\obj\Debug\Ezanı Muhammediye Saygı.csproj.GenerateResource.cache
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\obj\Debug\Ezanı Muhammediye Saygı.csproj.CoreCompileInputs.cache
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\obj\Debug\Ezan_ Mu.54177A13.Up2Date
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\obj\Debug\Ezanı Muhammediye Saygı.exe
+D:\projelerim\ApiDeneme1\EzanaSaygi\Ezan\obj\Debug\Ezanı Muhammediye Saygı.pdb
